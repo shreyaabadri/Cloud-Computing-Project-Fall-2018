@@ -1,4 +1,6 @@
 # Cloud-Computing-Project-Fall-2018
+Human Emotions influences Heart Rate using Amazon Rekognition API and Fitbit API       
+
 Team Members : Shreyaa Sridhar and Fatema Hasta
 
 Link for Facial Images 
